@@ -1,0 +1,45 @@
+
+body{
+   background-color: #14213D;
+   color: white;
+}
+
+hr{
+    height: 5px;
+    color: #FCA311;
+    background-color: #FCA311;
+}
+
+.header{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.or{
+margin-top: 75px;
+
+}
+
+.para2
+
+{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 60px;
+
+}
+
+.source{
+    width: 80%;
+    margin-left: 25px;
+}
+
+.list
+{
+margin-top: 200px;
+text-align: center;
+
+}
