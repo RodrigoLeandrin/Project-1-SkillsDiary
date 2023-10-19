@@ -19,6 +19,7 @@ hr{
 
 .or{
 margin-top: 75px;
+font-size: 25px;
 
 }
 
@@ -35,6 +36,7 @@ margin-top: 75px;
 .source{
     width: 80%;
     margin-left: 25px;
+    font-size: 18px;
 }
 
 .list
@@ -47,6 +49,7 @@ text-align: center;
 .container
 {
     width: 100%;
+    background-color: #FCA311;
     height: 100px;
     display: flex;
     border: solid 1px black;
@@ -57,17 +60,30 @@ text-align: center;
 
 .html{
     color: #FCA311;
+    background-color: #14213D;
     text-align: center;
     width: 80px;
     height: 80px;
     border: solid 1px black;
     border-radius: 25%;
+    font-size: 8px;
 }
 .css{
+    background-color: #14213D;
     color: #FCA311;
     text-align: center;
     width: 80px;
     height: 80px;
     border: solid 1px black;
     border-radius: 25%;
+    font-size: 8px;
+}
+.section2{
+    line-height: 120px;
+    font-size: 25px;
+}
+.section2 p{
+
+    line-height: 1;
+    font-size: 18px;
 }
